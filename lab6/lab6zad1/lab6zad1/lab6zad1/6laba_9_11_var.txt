@@ -1,0 +1,16 @@
+case 7:
+	delete_all(&head, &last);
+	break;
+void delete_all(Address **phead, Address **plast)//Удаление всего списка 
+{
+	Address *p = new Address;
+	p = *phead;
+	while (*phead)
+	{
+		p = *phead;
+		*phead = p->next;
+		delete p;
+	}
+	*phead = NULL;
+	*plast = NULL;
+}

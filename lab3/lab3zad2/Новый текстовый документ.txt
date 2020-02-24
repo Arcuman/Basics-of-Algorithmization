@@ -1,0 +1,3 @@
+if ((list_of_Client[i].day - Nday + 30 * (list_of_Client[i].month - Nmonth) + 355 * (list_of_Client[i].year - Nyear)) > (list_of_Client->Lday + 30 * list_of_Client->Lmonth + 355 * list_of_Client->Lyear)) {
+			ok = true;
+		}

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\бгту\оаип\лр16\лр16\2\source.cpp(9): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  2.vcxproj -> D:\БГТУ\ОАиП\ЛР16\ЛР16\Debug\2.exe

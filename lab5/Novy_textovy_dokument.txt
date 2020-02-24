@@ -1,0 +1,59 @@
+
+Скопировать из файла F1 в файл F2 строки, начиная с четвертой по порядку. Подсчитать количество символов в последнем слове F2.
+
+
+#include "pch.h"
+#include <iostream>
+#include<fstream>
+#include<cstdio>
+
+using namespace std;
+char text[300];
+char text_2[300];
+
+int k = 0;
+int m ;
+int answer = 0;
+int main()
+{
+	setlocale(LC_ALL, "rus");
+	
+		ifstream ifile("F1.txt");//открытие файла F1 для чтения
+		if (!ifile.is_open())
+			cout << "Error! File is not found!" << endl;//если файл не найден, то будет сообщение об ошибке
+		else
+		{
+			ifile.getline(text,300);
+			cout << text << endl;
+			for (int i = 0; i < 300; i++)
+			{
+				if (text[i] == '!' || text[i] == '?' || text[i] == '.')
+					k++;
+				if (k >= 3) {
+
+					text_2[i] = text[i];
+					cout << text_2[i];
+				}
+			}
+			cout << text_2 << endl;
+			ifile.close();
+			
+		}
+		ofstream ofile("F2.txt");// открытие/создание файла F2 для записи
+		if (!ofile.is_open())
+			cout << "Error! File is not found!" << endl;
+		else {
+			//for()
+			ofile << text << endl;
+			FILE *F2 = fopen("F2.txt", "r");
+			while (feof(F2) << '\0')
+			{
+				
+					answer++;
+			}
+			cout << "Символов в последнем слове:" << answer << endl;
+			ofile.close();
+		}
+	system("pause");
+	return 0;
+}

@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  ConsoleApplication1.cpp
+d:\бгту\лабы оаип\2 sem\lab2\draft\consoleapplication1\consoleapplication1.cpp(194): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication1.vcxproj -> D:\БГТУ\Лабы ОАиП\2 sem\lab2\lab2zad1\Debug\dop3.exe

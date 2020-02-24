@@ -1,0 +1,5 @@
+﻿  lab12_zad1.cpp
+d:\бгту\лабы оаип\2 sem\lab12\lab12_zad1\lab12_zad1\lab12_zad1.cpp(53): warning C4474: "fscanf_s" : для строки формата передано слишком много аргументов
+  d:\бгту\лабы оаип\2 sem\lab12\lab12_zad1\lab12_zad1\lab12_zad1.cpp(53): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+d:\бгту\лабы оаип\2 sem\lab12\lab12_zad1\lab12_zad1\lab12_zad1.cpp(151): warning C4101: temp: неиспользованная локальная переменная
+  lab12_zad1.vcxproj -> D:\БГТУ\Лабы ОАиП\2 sem\lab12\lab12_zad1\Debug\lab12_zad1.exe

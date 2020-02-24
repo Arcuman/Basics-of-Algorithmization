@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+d:\bstu\оаип\2 семестр\лр16\consoleapplication1\consoleapplication1\consoleapplication1.cpp(15): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+d:\bstu\оаип\2 семестр\лр16\consoleapplication1\consoleapplication1\consoleapplication1.cpp(185): warning C4101: buf: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> D:\BSTU\ОАиП\2 семестр\ЛР16\ConsoleApplication1\Debug\ConsoleApplication1.exe

@@ -1,0 +1,6 @@
+﻿  lab5dop1_zad2.cpp
+d:\бгту\лабы оаип\2 sem\lab5\lab5dop1_zad2\lab5dop1_zad2\lab5dop1_zad2.cpp(12): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\бгту\лабы оаип\2 sem\lab5\lab5dop1_zad2\lab5dop1_zad2\lab5dop1_zad2.cpp(13): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+d:\бгту\лабы оаип\2 sem\lab5\lab5dop1_zad2\lab5dop1_zad2\lab5dop1_zad2.cpp(17): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+d:\бгту\лабы оаип\2 sem\lab5\lab5dop1_zad2\lab5dop1_zad2\lab5dop1_zad2.cpp(27): warning C4551: в вызове функции отсутствует список аргументов
+  lab5dop1_zad2.vcxproj -> D:\БГТУ\Лабы ОАиП\2 sem\lab5\lab5zad1\Debug\lab5dop1_zad2.exe

@@ -1,0 +1,4 @@
+﻿  lab3zad1.cpp
+d:\бгту\лабы оаип\2 sem\lab3\lab3zad1\lab3zad1\lab3zad1.cpp(174): warning C4018: <=: несоответствие типов со знаком и без знака
+d:\бгту\лабы оаип\2 sem\lab3\lab3zad1\lab3zad1\lab3zad1.cpp(223): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab3zad1.vcxproj -> D:\БГТУ\Лабы ОАиП\2 sem\lab3\lab3zad1\Debug\lab3zad1.exe
